@@ -1,2 +1,2 @@
 Snake game made with JS.
-![img](http://i.imgur.com/untitled.png)
+![img](https://github.com/ThGzLT/JavascriptSnakeGame/blob/master/Untitled.jpg)
